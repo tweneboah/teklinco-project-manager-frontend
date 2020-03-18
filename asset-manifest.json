@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tweneboah/teklinco-project-manager-frontend/static/css/main.c24bcba1.chunk.css",
+    "main.js": "/tweneboah/teklinco-project-manager-frontend/static/js/main.54754cc3.chunk.js",
+    "main.js.map": "/tweneboah/teklinco-project-manager-frontend/static/js/main.54754cc3.chunk.js.map",
+    "runtime-main.js": "/tweneboah/teklinco-project-manager-frontend/static/js/runtime-main.2ad1c2de.js",
+    "runtime-main.js.map": "/tweneboah/teklinco-project-manager-frontend/static/js/runtime-main.2ad1c2de.js.map",
+    "static/css/2.f5298653.chunk.css": "/tweneboah/teklinco-project-manager-frontend/static/css/2.f5298653.chunk.css",
+    "static/js/2.5d3a7469.chunk.js": "/tweneboah/teklinco-project-manager-frontend/static/js/2.5d3a7469.chunk.js",
+    "static/js/2.5d3a7469.chunk.js.map": "/tweneboah/teklinco-project-manager-frontend/static/js/2.5d3a7469.chunk.js.map",
+    "index.html": "/tweneboah/teklinco-project-manager-frontend/index.html",
+    "precache-manifest.edfe15d02807d6b40c3c4c47e931237d.js": "/tweneboah/teklinco-project-manager-frontend/precache-manifest.edfe15d02807d6b40c3c4c47e931237d.js",
+    "service-worker.js": "/tweneboah/teklinco-project-manager-frontend/service-worker.js",
+    "static/css/2.f5298653.chunk.css.map": "/tweneboah/teklinco-project-manager-frontend/static/css/2.f5298653.chunk.css.map",
+    "static/css/main.c24bcba1.chunk.css.map": "/tweneboah/teklinco-project-manager-frontend/static/css/main.c24bcba1.chunk.css.map",
+    "static/js/2.5d3a7469.chunk.js.LICENSE.txt": "/tweneboah/teklinco-project-manager-frontend/static/js/2.5d3a7469.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ad1c2de.js",
+    "static/css/2.f5298653.chunk.css",
+    "static/js/2.5d3a7469.chunk.js",
+    "static/css/main.c24bcba1.chunk.css",
+    "static/js/main.54754cc3.chunk.js"
+  ]
+}
